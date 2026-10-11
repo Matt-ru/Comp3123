@@ -1,0 +1,15 @@
+{
+  "name": "101487855_comp3123-exec05",
+  "version": "1.0.0",
+  "description": "COMP3123 Class Exercise 05 - Express Routes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Matthew Zygiel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
